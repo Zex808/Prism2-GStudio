@@ -1,0 +1,7 @@
+{
+  "name": "DSD Streamline AI",
+  "description": "An AI-powered Direct Store Delivery (DSD) application for Vendors and Drivers. Features GPS tracking, intelligent route optimization, inventory analytics, and real-time messaging.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
